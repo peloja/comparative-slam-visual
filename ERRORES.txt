@@ -1,0 +1,106 @@
+ORB2 STEREO BAG 1
+max_error_cam: 3.4615
+mean_error_cam: 0.8232
+immse_cam: 0.8243
+
+ORB3 STEREO BAG1
+max_error_cam: 0.6707
+mean_error_cam: 0.1957
+immse_cam: 0.4257
+
+ORB2 STEREO BAG2
+max_error_cam: 0.4277
+mean_error_cam: 0.1344
+immse_cam: 0.2759
+
+ORB3 STEREO BAG2
+max_error_cam: 0.3798
+mean_error_cam: 0.1283
+immse_cam: 0.2740
+
+ORB2 MONO BAG1
+max_error_cam: 2.7236
+mean_error_cam: 1.1119
+immse_cam: 0.9833
+
+
+ORB3 MONO BAG2
+max_error_cam: 0.4457
+mean_error_cam: 0.1679
+immse_cam: 0.3085
+
+
+SVO IMU STEREO BAG1
+max_error_c0: 1.6198
+max_error_c1: 1.7525
+mean_error_c0: 0.4794
+mean_error_c1: 0.4759
+immse_c0: 0.6693
+immse_c1: 0.6683
+
+
+SVO VIO STEREO BAG1
+max_error_c0: 1.8513
+max_error_c1: 1.9784
+mean_error_c0: 0.5215
+mean_error_c1: 0.5146
+immse_c0: 0.6945
+immse_c1: 0.6899
+
+
+SVO IMU MONO BAG1
+max_error_cam: 2.7954
+mean_error_cam: 0.8782
+immse_cam: 0.8826
+
+
+SVO VIO MONO BAG1
+max_error_cam: 1.8498
+mean_error_cam: 0.3740
+immse_cam: 0.5594
+
+
+SVO IMU STEREO BAG2
+max_error_c0: 0.6232
+max_error_c1: 0.7700
+mean_error_c0: 0.2974
+mean_error_c1: 0.2902
+immse_c0: 0.5223
+immse_c1: 0.5137
+
+
+SVO VIO STEREO BAG2
+max_error_c0: 0.6983
+max_error_c1: 0.6840
+mean_error_c0: 0.2735
+mean_error_c1: 0.2661
+immse_c0: 0.4971
+immse_c1: 0.4876
+
+
+SVO VIO MONO BAG2
+max_error_cam: 0.4325
+mean_error_cam: 0.2176
+immse_cam: 0.4540
+
+
+
+
+
+--------------------------
+
+
+ORB3 MONO BAG1
+//no lo he conseguido sacar
+
+
+ORB2 MONO_BAG2 //este no lo ponemos nos salen warnings y mal las graficas de la pose
+max_error_cam: 3.8819
+mean_error_cam: 0.1012
+immse_cam: 0.1254
+
+
+SVO IMU MONO BAG2 //no lo hemos conseguido sacar
+
+
+
